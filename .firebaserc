@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "future-it"
+  },
+  "targets": {
+    "future-it": {
+      "hosting": {
+        "new-design": [
+          "future-it-new"
+        ],
+        "prod": [
+          "future-it"
+        ]
+      }
+    }
+  }
+}
